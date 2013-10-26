@@ -33,5 +33,5 @@ fi
 ### Other
 ```bash
 wget https://raw.github.com/ipwnstuff/packer-completion/master/packer-completion.bash -P ~
-echo "source ~/.packer-completion.bash" >> ~/.bashrc`
+echo "source ~/packer-completion.bash" >> ~/.bashrc`
 ```
