@@ -22,7 +22,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 #
-# https://github.com/ipwnstuff/packer_completion
+# https://github.com/ipwnstuff/packer-completion
 #
 # v0.0.1
 
